@@ -4,6 +4,13 @@ This skin is best used by disabling scoreboards (tab), interfaces, (shift+tab) a
 
 To install the skin simply place the zip file into the "Skins" folder of your osu directory and unzip the archive. You should be able to restart osu and have the options to use "testblank" and "testblank-nofollow"
 
+# Features
+- No numbers in hitobjects
+- One common hitsound. Recommended sfx volume is 50-75%
+- Only 2 hitobject colors
+
 testblank: skin with follow lines.
 
 testblank-nofollow: skin without follow lines. Looks very clean.
+
+todo: add pictures
