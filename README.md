@@ -10,7 +10,8 @@ To install the skin simply place the zip file into the "Skins" folder of your os
 - Only 2 hitobject colors
 - "Spidersilk" follow lines that are barely noticeable
 - Nice to use on both normal and bluescreen diminished monitors.
-
+- Less input lag than other skins. (even less than the "default" skin which peppy claims is optimized better than other skins)
+  * - Tested with Logitech G502 .45ms no mouse movement. Max was ~.58ms with many beatmap objects + moving mouse rapidly. Default skin hits .70ms+ input lag in some cases.
 
 testblank: skin with follow lines.
 
